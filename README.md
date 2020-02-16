@@ -11,7 +11,7 @@ This web application allows users to know their Akan Names through filling the f
 * Git
 ## Project Setup Installation  
 You can get it on git-hub. From the repository, click + in the global sidebar and select Clone this repository. Copy the https. From terminal use $ git clone ...
-## BDD  
+## BDD     
 | BEHAVIOUR | OUTPUT|
 |:------------------|:-----------|
 | User loads on to the page  |  User Views Landing page. |
