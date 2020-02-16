@@ -1,7 +1,7 @@
 # Akan Name
 
 ## Author
-Hnad Ahmed
+Hnad Ahmed 
 ## Project Description
 This web application allows users to know their Akan Names through filling the form, you submitt the form and get your akan name.
 ## Technologies Used
