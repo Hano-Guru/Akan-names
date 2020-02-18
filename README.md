@@ -21,5 +21,5 @@ use link to see the web page
 ## Contact Information
 Email ( bashiromar94@gmail.com)
 ## License
-This website is licensed under the terms of MIT licensing. Copyright (c) 2019 Hanad Ahmed.
+This website is licensed under the terms of MIT licensing. Copyright (c) 2019 Hano.
      
